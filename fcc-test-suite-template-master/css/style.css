@@ -72,8 +72,8 @@ nav ul li a {
     color: black ;
     background-color: #F1C40F;
     border: none;
-    
-    .service-cont{
+}
+.service- {
 margin-left: 15em;
 margin-top: 9em;
 }
@@ -123,14 +123,12 @@ margin-top: 9em;
     margin-top: 50px;
     display: flex;
     justify-content: center;
-}
+    }
 
-#video > iframe {
+    #video > iframe {
     max-width: 560px;
     width: 100%;
   }
-
-}
 
 .card {
     display: flex;
